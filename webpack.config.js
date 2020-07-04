@@ -1,6 +1,7 @@
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const VueLoaderPlugin = require('vue-loader/lib/plugin')
 
 module.exports = {
   entry: ["@babel/polyfill", "./src/index.js"],
@@ -13,6 +14,7 @@ module.exports = {
       filename: 'index.html',
       template: 'src/index.html'
     }),
+    new VueLoaderPlugin(),
     new MiniCssExtractPlugin({
       filename: "./css/[name].css",
       chunkFilename: "./css/[id].css"
@@ -21,21 +23,27 @@ module.exports = {
   module: {
     rules: [
       {
+        test: /\.vue$/,
+        use: 'vue-loader'
+      },
+      {
         test: /\.scss$/,
         use: [
-          { loader: 'style-loader' },
-          { loader: MiniCssExtractPlugin.loader },
-          { loader: "css-loader" },
+          'vue-style-loader',
           {
-            loader: 'postcss-loader',
-            options: {
-              sourceMap: true,
-              config: {
-                path: 'postcss.config.js'
-              }
-            }
+            loader: 'css-loader',
+            options: { modules: true }
           },
-          { loader: "sass-loader" }
+          'sass-loader'
+        ]
+      },
+      {
+        test: /\.css$/,
+        use: [
+          process.env.NODE_ENV !== 'production'
+            ? 'vue-style-loader'
+            : MiniCssExtractPlugin.loader,
+          'css-loader'
         ]
       },
       {
