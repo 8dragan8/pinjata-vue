@@ -3561,7 +3561,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-brands-400.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot?");
 
 /***/ }),
 
@@ -3585,7 +3585,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-brands-400.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf?");
 
 /***/ }),
 
@@ -3597,7 +3597,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-brands-400.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff?");
 
 /***/ }),
 
@@ -3609,7 +3609,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-brands-400.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2?");
 
 /***/ }),
 
@@ -3621,7 +3621,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-regular-400.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot?");
 
 /***/ }),
 
@@ -3645,7 +3645,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-regular-400.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf?");
 
 /***/ }),
 
@@ -3657,7 +3657,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-regular-400.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff?");
 
 /***/ }),
 
@@ -3669,7 +3669,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-regular-400.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2?");
 
 /***/ }),
 
@@ -3681,7 +3681,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-solid-900.eot\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot?");
 
 /***/ }),
 
@@ -3705,7 +3705,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-solid-900.ttf\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf?");
 
 /***/ }),
 
@@ -3717,7 +3717,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-solid-900.woff\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff?");
 
 /***/ }),
 
@@ -3729,7 +3729,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"_/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"assets/fonts/fa-solid-900.woff2\");\n\n//# sourceURL=webpack:///./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2?");
 
 /***/ }),
 
