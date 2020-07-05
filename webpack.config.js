@@ -4,9 +4,9 @@ var MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const VueLoaderPlugin = require('vue-loader/lib/plugin')
 
 module.exports = {
-  entry: ["@babel/polyfill", "./src/index.js"],
+  entry: ["@babel/polyfill", "./src/main.js"],
   output: {
-    filename: 'js/index.js',
+    filename: 'js/main.js',
     path: path.resolve(__dirname, './dist'),
   },
   plugins: [
@@ -69,6 +69,17 @@ module.exports = {
               ]
             ],
             plugins: ['@babel/plugin-proposal-object-rest-spread']
+          }
+        }
+      },
+      {
+        test: /\.js$/,
+        // Exclude transpiling `node_modules`, except `bootstrap-vue/src`
+        exclude: /node_modules\/(?!bootstrap-vue\/src\/)/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/env']
           }
         }
       },

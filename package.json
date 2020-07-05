@@ -56,6 +56,9 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
-    "vue": "^2.6.11"
+    "core-js": "^3.6.5",
+    "mdbvue": "^6.7.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.4"
   }
 }
