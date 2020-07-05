@@ -4,14 +4,23 @@
     <mdb-container>
       <mdb-row>
         <mdb-col md="12">
-          <div class="mb-5 flex-center">
-            <a class="fb-ic">
-              <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"></i>
-            </a>
-            <a class="ins-ic">
-              <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"></i>
-            </a>
-          </div>
+          <mdb-row>
+            <mdb-col md="2">
+              <a href="https://www.facebook.com/pinjate.masta.beograd/">
+                <p><mdb-icon fab icon="facebook-square" size="3x" />Telephone</p>
+              </a>
+            </mdb-col>
+            <mdb-col md="2">
+              <a href="https://www.instagram.com/pinjate.masta.beograd/?hl=en">
+                <p><mdb-icon fab icon="instagram" size="3x" />Telephone</p>
+              </a>
+            </mdb-col>
+            <mdb-col md="2">
+              <a href="https://www.instagram.com/pinjate.masta.beograd/?hl=en">
+                <p><mdb-icon  icon="phone-square-alt" size="3x" />Telephone</p>
+              </a>
+            </mdb-col>
+          </mdb-row>
         </mdb-col>
       </mdb-row>
     </mdb-container>
@@ -25,21 +34,27 @@
 </template>
 
 <script>
-import { mdbFooter, mdbContainer, mdbRow, mdbCol } from "mdbvue";
+import { mdbIcon, mdbFooter, mdbContainer, mdbRow, mdbCol } from "mdbvue";
 export default {
   name: "FooterPage",
   components: {
     mdbFooter,
     mdbContainer,
     mdbRow,
+    mdbIcon,
     mdbCol
   }
 };
 </script>
 
 <style>
-.fb-ic > i {
+.icon {
+  height: 3rem;
+  width: 3rem;
   border-radius: 50%;
   background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 </style>

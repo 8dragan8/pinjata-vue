@@ -1,7 +1,8 @@
 <template>
   <Navbar>
+    <Contact />
     <Gallery />
-    <Footer />
+    <!-- <Footer /> -->
   </Navbar>
 </template>
 
@@ -9,8 +10,9 @@
 // @ is an alias to /src
 // import HelloWorld from '../components/HelloWorld.vue'
 import Gallery from "../components/Gallery.vue";
-import Footer from "../components/Footer.vue";
+// import Footer from "../components/Footer.vue";
 import Navbar from "../components/Navbar.vue";
+import Contact from "../components/Contact.vue";
 import { mdbContainer } from "mdbvue";
 
 export default {
@@ -19,7 +21,8 @@ export default {
     mdbContainer,
     Gallery,
     Navbar,
-    Footer
+    Contact,
+    // Footer
   }
 };
 </script>
