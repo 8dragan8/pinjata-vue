@@ -1,6 +1,6 @@
 .idea/
 .vscode/
-node_modules
+node_modules/
 dist/
 npm-debug.log
 package-lock.json
